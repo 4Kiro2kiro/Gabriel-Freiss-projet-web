@@ -2,6 +2,8 @@
 
 ## Exercice : Suivre l'évolution d'un fichier avec Git
 
+Ce projet fait partie du cours de dévelopement web et a pour but de pratiqué et s'entrainer au commande Git et au dévelloppement Web !
+
 1. Créer un projet et l'initialiser avec Git
 2. Créer un fichier et faire un premier commit
 3. Modifier le fichier et voir l'historique
